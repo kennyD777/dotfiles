@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kennydan.huart@gmail.com
+	name = Kenny Huart
